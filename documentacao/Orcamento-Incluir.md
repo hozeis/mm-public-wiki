@@ -2,6 +2,6 @@
 
 ### Informacoes do cliente
 
-[[../images/orcamento/incluir-info-cliente.png|orcamento-incluir-info-cliente.png]]
+<img src="images/orcamento/incluir-info-cliente.png" width="100%" />
 
 * **Serie**: disponibilizada para questões financeiras
