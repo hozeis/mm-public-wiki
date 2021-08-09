@@ -2,6 +2,6 @@
 
 ### Informacoes do cliente
 
-<img src="https://github.com/hozeis/mm-public-wiki/blob/main/images/orcamento/incluir-info-cliente.png?raw=true" width="100%" />
+![orcamento-info-cliente](https://github.com/hozeis/mm-public-wiki/blob/main/images/orcamento/incluir-info-cliente.png)
 
 * **Serie**: disponibilizada para questões financeiras
